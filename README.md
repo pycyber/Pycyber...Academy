@@ -1,2 +1,3 @@
-# python-tutorial
-This Repository will contains the python tutorials
+# Pycyber Academy
+
+This is a Static website where we can learn something to add values.
